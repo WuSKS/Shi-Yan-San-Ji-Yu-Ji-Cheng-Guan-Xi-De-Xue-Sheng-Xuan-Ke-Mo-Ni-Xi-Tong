@@ -22,4 +22,16 @@
 <br>这些属性和方法是从Students类继承而来的，可以在Teachers类中直接使用
 <br>2.修改了原本功能实现中，输出课表里信息重复的问题（不同方法返回值重复），这样的改进使得输出的课表信息
 <br>更加规范和易读。
+## 结构图
+<img width="117" alt="image" src="https://github.com/WuSKS/Shi-Yan-San-Ji-Yu-Ji-Cheng-Guan-Xi-De-Xue-Sheng-Xuan-Ke-Mo-Ni-Xi-Tong/assets/145275222/5c72be53-d9d1-43ba-bdb3-545ca4550f1e">
+
+## 系统运行截图
+<img width="1280" alt="image" src="https://github.com/WuSKS/Shi-Yan-San-Ji-Yu-Ji-Cheng-Guan-Xi-De-Xue-Sheng-Xuan-Ke-Mo-Ni-Xi-Tong/assets/145275222/d1d1fe90-1883-4cca-858a-5ec6464dd37b">
+
+## 感想与体会
+熟悉了访问权限控制和如何运用继承，避免了重复编写相同的代码，提高了代码的灵活性和可扩展性，收获颇多，感谢老师
+
+  
+
+
 
